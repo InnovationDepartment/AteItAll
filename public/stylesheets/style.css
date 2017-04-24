@@ -1,0 +1,96 @@
+.logo {
+	background-image: url("https://s3-us-west-2.amazonaws.com/fashion-rules-apply/static/logo-1.png");
+	background-size: 40%;
+}
+
+#imageCarousel {
+	background-image: url('../images/bg1.png');
+}
+
+.referralProfile .referralProfileHeader .referralProfileHeaderImage {
+	background-image: url('../images/bg2.jpg');
+}
+
+.referralProfile .large-header {
+	background-image: url('../images/bg2.jpg');
+}
+
+.referralProfile .section3 {
+	background-image: url('../images/bg4.jpg');
+	background-position: center;
+}
+
+.footer {
+	background: #000;
+	border-top: 1px solid #fff;
+}
+
+.transparent-box .formSubmit {
+	background: #3ec2cc;
+}
+
+.transparent-box .social {
+	color: #3ec2cc;
+}
+
+.red-text {
+	color: #3ec2cc;
+}
+
+.footer .footer-link {
+	color: #fff;
+}
+
+.footer .copyright-container .copyright {
+	color: #fff;
+}
+
+.footer .footer-header {
+	color: #fff;
+}
+
+.transparent-box .header {
+	font-size: 32px;
+}
+
+.modal .iframe {
+	height: 3037px;
+}
+
+.referralProfile .referralInfoContainer .referralCountContainer .referralCount {
+	border-color: #3ec2cc;
+	color: #3ec2cc;
+}
+
+.referralProfile .referralInfoContainer .referralInfoContainerLink p {
+	color: #3ec2cc;
+}
+
+.referralProfile .progress .progress-bar {
+	background: #3ec2cc;
+}
+
+.referralProfile .ticks .tick.highlighted {
+	background: #3ec2cc;
+}
+
+body {
+	background: #3ec2cc;
+}
+
+.referralProfile .large-header .submit {
+	background: #3ec2cc;
+}
+
+.referralProfile .section4 .heading {
+	color: #3ec2cc;
+}
+
+.modal-header {
+	background: #3ec2cc;
+}
+
+.sample {
+	border-color: #3ec2cc;
+	color: #3ec2cc;
+}
