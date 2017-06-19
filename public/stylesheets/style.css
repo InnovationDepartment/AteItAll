@@ -1,5 +1,5 @@
 .logo {
-	background-image: url("https://s3-us-west-2.amazonaws.com/fashion-rules-apply/static/logo-1.png");
+	background-image: url("https://s3-us-west-2.amazonaws.com/ate-it-all/AteItAll-logo.png");
 	background-size: 40%;
 }
 
@@ -75,7 +75,7 @@
 }
 
 body {
-	background: #3ec2cc;
+	background: black;
 }
 
 .referralProfile .large-header .submit {
